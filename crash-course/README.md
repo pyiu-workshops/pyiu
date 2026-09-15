@@ -13,7 +13,7 @@ Crash Course topics typically include:
 
 ## Get Coding
 
-The materials from all in-person Crash Courses are uploaded in this public repository, and can be accessed freely. Slides are uploaded in .pptx format, with the session date indicated by the prefix (e.g., "F24" = Fall 2024). Each code demo is uploaded as a notebook file (".ipynb"), and has a corresponding completed version with the added suffix "_complete.ipynb". Try to follow the lessons in each notebook and finish the demo versions yourself first, and check your results against the complete version solutions!
+The materials from all in-person Crash Courses are uploaded in this public repository, and can be accessed freely. Slides are uploaded in .pdf format, with the session date indicated by the prefix (e.g., "F24" = Fall 2024). Each code demo is uploaded as a notebook file (".ipynb"), and has a corresponding completed version with the added suffix "_complete.ipynb". Try to follow the lessons in each notebook and finish the demo versions yourself first, and check your results against the complete version solutions!
 
 Each directory here contains all the necessary files for one crash course: code demo, solutions, input data, and images.
 
