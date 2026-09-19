@@ -1,8 +1,9 @@
-crash-course/*/solutions/*.png
-workshop/plotting/*.png
-workshop/data-fitting/*.txt
-workshop/advanced-functions-parallelization/__pycache__
-workshop/astro-examples/*.jpg
 .ipynb_checkpoints
 raw.githubusercontent.com
+crash-course/*/solutions/*.png
 special-workshops/palma-2026/kiss_dataframe*.csv
+workshop/advanced-functions-parallelization/__pycache__
+workshop/astro-examples/*.jpg
+workshop/data-fitting/*.txt
+workshop/machine-learning/*.csv
+workshop/plotting/*.png
